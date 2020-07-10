@@ -14,5 +14,4 @@ function diceGame() {
     document.querySelector("h1").textContent = "Draw";
 
 
-
 } // ends diceGame()
